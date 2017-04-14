@@ -1,3 +1,3 @@
 # Formation Git
 
-C'est bien fini...
+C'est bien fini !!!
